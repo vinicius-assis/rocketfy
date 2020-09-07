@@ -7,7 +7,7 @@ import { Container } from './styles'
 const Board = () => {
   return (
     <Container>
-      
+      <List />
     </Container>
   )
 }
